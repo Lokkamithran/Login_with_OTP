@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "48193042224",
+    "project_id": "login-with-otp-545dd",
+    "storage_bucket": "login-with-otp-545dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48193042224:android:f26272c5767bc8e06d3af5",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48193042224-kvet2n75mpe4gibi32ql1sfej37u2q97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "0fb7a50075ec5c122a70855aba5cd63ae562b32c"
+          }
+        },
+        {
+          "client_id": "48193042224-48h8rrva8jothvu4jn0ibofjvpmgaepl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPLPFJD0dycXFMjZhwmTLQ0y_HVgh179c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48193042224-48h8rrva8jothvu4jn0ibofjvpmgaepl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

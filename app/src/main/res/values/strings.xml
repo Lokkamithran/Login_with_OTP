@@ -6,4 +6,5 @@
     <string name="send_otp">Send OTP</string>
     <string name="otp">OTP</string>
     <string name="verify_otp">Verify OTP</string>
+    <string name="welcome_text">Welcome to Your Bank, %1$s!</string>
 </resources>
