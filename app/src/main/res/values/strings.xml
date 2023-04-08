@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your Bank</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="otp">OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
